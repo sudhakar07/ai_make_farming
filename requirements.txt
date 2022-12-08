@@ -2,3 +2,4 @@ numpy
 streamlit==0.69.0
 pandas
 scikit_learn
+xgboost
