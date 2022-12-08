@@ -4,8 +4,7 @@ import numpy as np
 import os
 import pickle
 import warnings
-import seaborn as sns
-import matplotlib.pyplot as plt
+
 
 
 #https://www.kaggle.com/code/methoomirza/crop-visualization-and-prediction-ml
